@@ -1,3 +1,3 @@
-# CSUF Senior Design RoboSub 2022 AUV
+# CSUF Photovoltaic CMOS Cell Machine Learning Research
 
-AUV
+Work in Progress.
